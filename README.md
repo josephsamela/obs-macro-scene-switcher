@@ -34,9 +34,9 @@ In your OBS project create 5 scenes to switch between. Go to File > Settings > H
 With the obs-macro-scene-switcher connected via USB - press one of the 5 buttons to switch between scenes. Good work!
 
 
-![](wiring-photo1.png)
+![](wiring-photo1.jpg)
 
-![](wiring-photo2.png)
+![](wiring-photo2.jpg)
 
 ![](final-package.gif)
 
